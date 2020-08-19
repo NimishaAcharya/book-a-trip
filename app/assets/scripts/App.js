@@ -1,0 +1,1 @@
+alert("Welcome to book a trip, its going to be fun!!!");
