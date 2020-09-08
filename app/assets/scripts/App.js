@@ -1,1 +1,5 @@
-alert("Welcome to book a trip, its going to be fun!!!");
+import '../styles/styles.css';
+
+if(module.hot){
+    module.hot.accept();
+}
