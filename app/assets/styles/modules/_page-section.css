@@ -4,7 +4,7 @@
     @mixin atMedium {
         padding: 4.5rem 0;
     }
-    &__blue{
+    &--blue{
         background-color: $mainBlue;
         color: #FFF;
     }
