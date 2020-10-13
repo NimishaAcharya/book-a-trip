@@ -1,4 +1,5 @@
 import '../styles/styles.css';
+import 'lazysizes';
 import './modules/MobileMenu';
 import MobileMenu from './modules/MobileMenu';
 import RevealOnScroll from './modules/RevealOnScroll';
